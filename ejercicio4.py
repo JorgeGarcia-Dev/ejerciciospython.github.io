@@ -6,4 +6,3 @@
 kilometros = int(input("Ingresa los kilómetros recorridos: "))
 litros = int(input("Ingresa los litros consumidos durante el recorrido: "))
 consumoCombustible = kilometros / litros
-print("El consumo por kilómetro es de: ", consumoCombustible)
