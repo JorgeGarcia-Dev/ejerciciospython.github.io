@@ -6,4 +6,4 @@
 
 nombre = input("Tu nombre: ")
 usuario = nombre
-print("Ahora estás en la Matrix", usuario)
+print(usuario, "se está convirtiendo en un gran programador !!")
