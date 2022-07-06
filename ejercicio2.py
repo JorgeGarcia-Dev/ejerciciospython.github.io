@@ -9,4 +9,4 @@ numeroDecimal = float(input("Ingresa un número con decimales: "))
 numeroEntero = int(input("Ingresa un número entero: "))
 resultado = numeroDecimal + numeroEntero
 suma = resultado
-print("El resultado de la suma es:", suma)
+print("El resultado de la suma es: ", suma)
