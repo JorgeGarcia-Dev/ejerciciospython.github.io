@@ -1,3 +1,5 @@
+# Ejercicio 13
+
 # Dado un numero, devolver su tabla de multiplicar completa.
 
 def tabla_multiplicar(numero):

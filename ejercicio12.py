@@ -1,3 +1,5 @@
+# Ejercicio 12
+
 # Escribir un programa para solicitar al usuario tres números y mostrar en pantalla al menor de los tres.
 
 num1 = int(input("Ingresa un número entero: "))

@@ -1,3 +1,5 @@
+# Ejercicio 14
+
 # Dada una cadena de texto, comprobar si es un palíndromo o no.
 # Los palíndromos son palabras que se leen igual aún estando invertidas.
 # Por ejemplo: ana, otto, kayak, ojo, etc...
