@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78bea1e7-36b1-4222-bd13-159d650fe91d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jorgegarcia/Documentos/python/Python y Flask (API REST)/ejerciciosPython&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jorgegarcia/Escritorio/CodigoFacilito/Python"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.ejercicio6">
     <configuration name="ejercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ejerciciosPython" />

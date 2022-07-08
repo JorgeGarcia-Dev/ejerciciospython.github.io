@@ -73,3 +73,8 @@ Ejercicio 14
 Dada una cadena de texto, comprobar si es un palíndromo o no.
 Los palíndromos son palabras que se leen igual aún estando invertidas.
 Por ejemplo: ana, otto, kayak, ojo, etc...
+
+Ejercicio 15
+
+Escribir un programa que solicite al usuario una letra y, si es una vocal, muestre el mensaje “Es vocal”.
+en caso de no ser vocal, muestra el mensaje "No es vocal".
