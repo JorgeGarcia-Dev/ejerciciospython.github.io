@@ -8,7 +8,7 @@ def es_vocal(letra):
         letra = letra.lower()
         if letra == 'a' or letra == 'e' or letra == 'i' or letra == 'o' or letra == 'u':
             return "Es una vocal."
-        elif letra != 'a' or letra != 'e' or letra != 'i' or letra != 'o' or letra != 'u':
+        else:
             return "No es una vocal, es una consonante."
     elif len(letra) >= 2:
         return "No es posible procesar el dato, intenta de nuevo ingresando solo una letra."
