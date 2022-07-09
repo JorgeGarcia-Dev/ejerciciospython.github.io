@@ -6,6 +6,6 @@
 vocal = input("Ingresa una letra: ").lower()
 if vocal == 'a' or vocal == 'e' or vocal == 'i' or vocal == 'o' or vocal == 'u':
     letra = vocal.lower()
-    print("Es una vocal")
+    print("Es una vocal.")
 elif vocal != 'a' or vocal != 'e' or vocal != 'i' or vocal != 'o' or vocal != 'u':
-    print("No es una vocal, es una consonante")
+    print("No es una vocal, es una consonante.")
