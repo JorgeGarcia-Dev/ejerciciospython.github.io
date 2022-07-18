@@ -3,7 +3,7 @@
 # Este dato debe guardarse en una variable con tipo int (número entero).
 # Finalmente, mostrar al usuario la fecha con el formato DD / MM / AAAA.
 
-numeros = input("ingresa un número de 8 caractéres: ")
+numeros = int(input("ingresa un número de 8 caractéres: "))
 dia = numeros[:2]
 mes = numeros[2:4]
 año = numeros[4:]
