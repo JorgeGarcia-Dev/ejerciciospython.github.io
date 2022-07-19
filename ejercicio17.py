@@ -1,3 +1,5 @@
+# Ejercicio 17
+
 # Escribir un programa que le solicite al usuario ingresar una fecha formada por 8 números,
 # donde los primeros dos representan el día, los siguientes dos el mes y los últimos cuatro el año (DDMMAAAA).
 # Finalmente, mostrar al usuario la fecha con el formato DD / MM / AAAA.
