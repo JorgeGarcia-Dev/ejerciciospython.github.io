@@ -83,3 +83,27 @@ Ejercicio 16
 
 Escribir un programa que solicite al usuario una letra y, si es una vocal, muestre el mensaje “Es vocal”.
 Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle que no se puede procesar el dato.
+
+Ejercicio 17
+
+Escribir un programa que le solicite al usuario ingresar una fecha formada por 8 números,
+donde los primeros dos representan el día, los siguientes dos el mes y los últimos cuatro el año (DDMMAAAA).
+Finalmente, mostrar al usuario la fecha con el formato DD / MM / AAAA.
+
+Ejercicio 18
+
+Escribí un programa que,dada una cadena de texto por el usuario,
+imprima True si la cantidad de caracteres en la cadena es un número impar, o False si no lo es.
+
+Ejercicio 19
+
+Escribí un programa que le pida al usuario ingresar dos palabras y las guarde en dos variables,
+y que luego imprima True si la primera palabra es menor que la segunda o False si no lo es.
+
+Ejercicio 20
+
+Escribir un programa que solicite ingresar un nombre de usuario y una contraseña.
+Si el nombre es “Gwenevere” y la contraseña es “excalibur”, mostrar en pantalla
+“Usuario y contraseña correctos. Puede ingresar a Camelot”.
+Si el nombre o la contraseña no coinciden, mostrar “Acceso denegado”.
+
